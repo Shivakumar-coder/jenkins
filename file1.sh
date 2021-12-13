@@ -1,4 +1,2 @@
-#!/bin/bash
-chmod 777 ./file1.sh
-./file1.sh
+#!/bin/sh
 echo "Hello World"
